@@ -8,7 +8,8 @@ Proyek Flutter ini adalah sebuah latihan untuk mereplikasi tampilan antarmuka (U
 ## 📸 Pratinjau
 
 This project is a starting point for a Flutter application.
-*(Disarankan untuk menambahkan screenshot atau GIF dari aplikasi di sini untuk menunjukkan hasil akhirnya)*
+
+![image alt](https://github.com/AhmdMaulidan/duplikasi-traveloka/blob/278433d95bc45dc6ada7a0f66e1d217b2da398c7/Ficture%20project-8.png)
 
 A few resources to get you started if this is your first Flutter project:
 ![Screenshot Aplikasi](https://user-images.githubusercontent.com/example.png)
